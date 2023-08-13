@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojas13-git&label=Profile%20views&color=0e75b6&style=flat" alt="ojas13-git" /> </p>
 
 
-- 🌱 I’m currently learning **React.js and Backend development**
+- 🌱 I’m currently learning **Some New Web Dev Language**
 
 - 👨‍💻My Portfolio Website: [https://ojas13-git.github.io/Ojas-Portfolio/](https://ojas13-git.github.io/Ojas-Portfolio/)
 
@@ -25,6 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojas13-git&show_icons=true&locale=en&layout=compact" alt="ojas13-git" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ojas13-git&show_icons=true&locale=en" alt="ojas13-git" /></p>
+
 
 <!--
 **Ojas13-git/Ojas13-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
