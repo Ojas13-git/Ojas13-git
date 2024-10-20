@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Some New Web Dev Language**
+- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻My Portfolio Website: [https://ojas13-git.github.io/Ojas-Portfolio/](https://ojas13-git.github.io/Ojas-Portfolio/)
 
