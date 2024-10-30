@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Web3**
 
-- 👨‍💻My Portfolio Website: [https://ojas13-git.github.io/Ojas-Portfolio/](https://ojas13-git.github.io/Ojas-Portfolio/)
+- 👨‍💻My Portfolio Website: [[https://ojas13-git.github.io/Ojas-Portfolio/](https://ojas13-git.github.io/Ojas-Portfolio/)](https://ojas13-git.github.io/ojas_portfolio/)
 
 - 📫 How to reach me: **ojas.palorkar@gmail.com**
 
