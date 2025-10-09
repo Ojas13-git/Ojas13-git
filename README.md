@@ -5,7 +5,6 @@
 
 
 
-- 🌱 I’m currently learning **Web3**
 
 - 👨‍💻My Portfolio Website: [(https://ojas-portfolio-eta.vercel.app/)](https://ojas-portfolio-eta.vercel.app/)
 
